@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AAD Practice Project</string>
+    <string name="text">Once a notification has been built, it needs to be issued using the notify() method of the NotificationManager instance. The code to access the NotificationManager and issue the notification needs to be added to the sendNotification() method as follow</string>
+    <string name="channel_description">"Testing on Oreo "</string>
+    <string name="channel_name">AAD Certification</string>
+    <string name="snooze">Show Broadcast</string>
 </resources>
